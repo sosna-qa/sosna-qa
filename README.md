@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kacper Sosna — QA Engineer
+# Kacper Sosna - Portfolio
 
 ## 🧍 About Me
 A short introduction about yourself:
