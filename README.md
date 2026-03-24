@@ -1,20 +1,12 @@
 # Kacper Sosna - Portfolio
 
 ## About Me
-A short introduction about yourself:
-- Who you are as a QA Engineer
-- Your experience or what you're currently learning
-- What motivates you in software testing
 
-Example:
-I am a QA Engineer focused on manual testing and expanding into test automation. I enjoy analyzing systems, finding defects, and improving product quality.
 
 ---
 
 ## Courses & Certifications
-- [Course Name] — [Platform] — [Year]
-- [Course Name] — [Platform] — [Year]
-- [Certification] — [Organization] — [Year]
+
 
 ---
 
@@ -75,9 +67,9 @@ I am a QA Engineer focused on manual testing and expanding into test automation.
 
 ## Projects
 Describe your QA projects:
-- **Project 1** — what you tested, tools used, your responsibilities
-- **Project 2** — API testing, regression testing, exploratory testing
-- **Project 3** — automation (if applicable)
+- **Project 1** 
+- **Project 2** 
+- **Project 3** 
 
 ---
 
@@ -90,6 +82,6 @@ Describe your QA projects:
 ---
 
 ## Contact
-- Email: [your email]
-- LinkedIn: [your LinkedIn]
-- GitHub: [your GitHub profile]
+- Email:
+- LinkedIn: 
+- GitHub: 
