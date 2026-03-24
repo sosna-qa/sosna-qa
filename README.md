@@ -1,6 +1,6 @@
 # Kacper Sosna - Portfolio
 
-## 🧍 About Me
+## About Me
 A short introduction about yourself:
 - Who you are as a QA Engineer
 - Your experience or what you're currently learning
@@ -11,23 +11,23 @@ I am a QA Engineer focused on manual testing and expanding into test automation.
 
 ---
 
-## 🎓 Courses & Certifications
+## Courses & Certifications
 - [Course Name] — [Platform] — [Year]
 - [Course Name] — [Platform] — [Year]
 - [Certification] — [Organization] — [Year]
 
 ---
 
-## 🧪 QA Skills
+## QA Skills
 
-### 📘 ISTQB Knowledge
+### ISTQB Knowledge
 - Understanding of testing levels and types
 - Test design techniques (equivalence partitioning, boundary value analysis, decision tables)
 - Defect lifecycle and test process
 - Static testing and reviews
 - Test management basics
 
-### 🔍 Manual Testing
+### Manual Testing
 - Functional testing
 - Regression testing
 - Exploratory testing
@@ -35,7 +35,7 @@ I am a QA Engineer focused on manual testing and expanding into test automation.
 - Creating test plans and test suites
 - Bug reporting and defect lifecycle
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Jira / Trello
 - Postman 
 - Git / GitHub
@@ -44,36 +44,36 @@ I am a QA Engineer focused on manual testing and expanding into test automation.
 - Testlink
 - Xampp
 
-### 🤖 Automation 
+### Automation 
 - Selenium / Cypress / Playwright
 - Basic knowledge of JavaScript / Python / Java
 
 ---
 
-## 📂 QA Portfolio
+## QA Portfolio
 
-### 📌 Test Cases
+### Test Cases
 - [Test Case Example 1 — link]
 - [Test Case Example 2 — link]
 
-### 📌 Test Suites
+### Test Suites
 - [Test Suite Example — link]
 
-### 🐞 Bug Reports
+### Bug Reports
 - [Bug Report 1 — link]
 - [Bug Report 2 — link]
 
-### 🔗 Postman — REST API Testing
+### Postman — REST API Testing
 - Collection: [link]
 - Documentation: [link]
 
-### 🗄️ SQL Queries
+### SQL Queries
 - [SQL tasks — link]
 - [SQL practice file — link]
 
 ---
 
-## 🚀 Projects
+## Projects
 Describe your QA projects:
 - **Project 1** — what you tested, tools used, your responsibilities
 - **Project 2** — API testing, regression testing, exploratory testing
@@ -81,7 +81,7 @@ Describe your QA projects:
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 - Improve test automation skills
 - Learn CI/CD basics
 - Expand QA portfolio
@@ -89,7 +89,7 @@ Describe your QA projects:
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: [your email]
 - LinkedIn: [your LinkedIn]
 - GitHub: [your GitHub profile]
