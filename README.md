@@ -6,7 +6,9 @@
 ---
 
 ## Courses & Certifications
-
+- Praktyczny Kurs Testowania oprogramowania
+- Postman od podstaw: Testowanie REST API
+- Kurs SQL od podstaw
 
 ---
 
@@ -28,13 +30,13 @@
 - Bug reporting and defect lifecycle
 
 ### Tools & Technologies
-- Jira / Trello
-- Postman 
-- Git / GitHub
+- Bug tracking: Jira, Trello
+- API platform: Postman 
+- Version control system: Git 
 - Chrome DevTools
-- SQL (SELECT, JOIN, GROUP BY, UPDATE, DELETE)
-- Testlink
-- Xampp
+- Test case managment: Testlink
+- SQL - Xampp
+- Code editor: Visual Studio Code
 
 ### Automation 
 - Selenium / Cypress / Playwright
