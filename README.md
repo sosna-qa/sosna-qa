@@ -1,7 +1,7 @@
 # Kacper Sosna - Portfolio
 
 ## About Me
-
+Junior QA tester with practical experience in manual testing, API testing using Postman, and SQL queries. Passionate about improving software quality through clear test cases, bug reporting, and structured test planning. Knowledgeable in ISTQB concepts and currently expanding skills in test automation
 
 ---
 
@@ -81,8 +81,6 @@
 ## Learning Goals
 - Improve test automation skills
 - Learn CI/CD basics
-- Expand QA portfolio
-- Prepare for ISTQB certification
 
 ---
 
