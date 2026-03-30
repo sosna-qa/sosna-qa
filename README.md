@@ -8,7 +8,9 @@
 ## Courses & Certifications
 - Praktyczny Kurs Testowania oprogramowania
 - Postman od podstaw: Testowanie REST API
-- Kurs SQL od podstaw
+- Kurs SQL od podstaw | MySQL
+- Cypress od podstaw – Automatyzacja testów
+- Chrome DevTools: Od podstaw do Eksperta
 
 ---
 
