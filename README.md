@@ -35,7 +35,7 @@
 - Version control system: Git 
 - Chrome DevTools
 - Test case managment: Testlink
-- SQL - Xampp
+- SQL: Xampp
 - Code editor: Visual Studio Code
 
 ### Automation 
