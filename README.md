@@ -53,7 +53,7 @@
 
 ### Bug Reports
 - [bug1](https://drive.google.com/file/d/1ORaNu4N086iZ1qcyH2C6_mh1CVeCNYr6/view)
-- [bug2](https://drive.google.com/file/d/1aSri1mXyAJPCy9U3VOm6oYj9Fsw76m75/view)
+- [bug2](https://drive.google.com/file/d/1KaQFfkgPSx9Tyy7v0SJTAgeuCdPanVff/view)
 - [bug3](https://drive.google.com/file/d/1jYU0pl3dauOEcTVfYj0v2WlssGfhENoN/view)
 - [bug4](https://drive.google.com/file/d/1pQA673cz4JCUO2tCDSmvr7FUkUj3agNJ/view)
 
