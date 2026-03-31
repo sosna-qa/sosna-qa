@@ -48,6 +48,9 @@ QA tester with practical experience in manual testing, API testing using Postman
 
 ## QA Portfolio
 
+### Test Plan
+-[TP1](https://drive.google.com/file/d/1liyiqmKiOZKEiQY8AVPy-9NlWfSBLk3E/view)
+
 ### Test Cases
 - [Test Case Example 1 — link]
 - [Test Case Example 2 — link]
