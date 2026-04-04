@@ -65,8 +65,8 @@ QA tester with practical experience in manual testing, API testing using Postman
 - [bug#4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)
 
 ### Postman — REST API Testing
-- Collection: [link]
-- Documentation: [link]
+- [Collection](https://drive.google.com/file/d/1Nah-dSNh56BTHeWWF3MKI8LGPPKhm495/view)
+- [Documentation](https://drive.google.com/drive/u/1/home)
 
 ### SQL Queries
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
