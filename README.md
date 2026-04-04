@@ -49,28 +49,27 @@ QA tester with practical experience in manual testing, API testing using Postman
 ## QA Portfolio
 
 ### Test Plan
-- [TP1](https://drive.google.com/file/d/1nvrN410QP5ZbObPvSLx6MVxcAny-FS1J/view)
+- [TP#1](https://drive.google.com/file/d/1nvrN410QP5ZbObPvSLx6MVxcAny-FS1J/view)
 
 ### Test Cases
-- [TC1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)
-- [TC2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)
+- [TC#1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)
+- [TC#2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)
 
 ### Test Suites
 - [Test Suite Example — link]
 
 ### Bug Reports
-- [bug1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)
-- [bug2](https://drive.google.com/file/d/1W-H3DZ6TsKQfHxr89Zpwsnxz4V6q8wP-/view)
-- [bug3](https://drive.google.com/file/d/1h0bpAzNZuD6MjSIS2UnbZvi7aFkYktNu/view)
-- [bug4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)
+- [bug#1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)
+- [bug#2](https://drive.google.com/file/d/1W-H3DZ6TsKQfHxr89Zpwsnxz4V6q8wP-/view)
+- [bug#3](https://drive.google.com/file/d/1h0bpAzNZuD6MjSIS2UnbZvi7aFkYktNu/view)
+- [bug#4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)
 
 ### Postman — REST API Testing
 - Collection: [link]
 - Documentation: [link]
 
 ### SQL Queries
-- [SQL tasks — link]
-- [SQL practice file — link]
+- [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
 ---
 
