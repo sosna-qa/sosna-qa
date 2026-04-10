@@ -78,7 +78,3 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - Learn CI/CD basics
 
 ---
-
-## Contact
-- Email:
-- LinkedIn: 
