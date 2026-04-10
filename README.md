@@ -55,9 +55,6 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - [TC#1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)
 - [TC#2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)
 
-### Test Suites
-- [Test Suite Example — link]
-
 ### Bug Reports
 - [bug#1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)
 - [bug#2](https://drive.google.com/file/d/1W-H3DZ6TsKQfHxr89Zpwsnxz4V6q8wP-/view)
