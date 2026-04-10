@@ -1,7 +1,7 @@
 # Kacper Sosna - Portfolio
 
 ## About Me
-QA tester with practical experience in manual testing, API testing using Postman, and SQL queries. Passionate about improving software quality through clear test cases, bug reporting, and structured test planning. Knowledgeable in ISTQB concepts and currently expanding skills in test automation
+QA Tester with hands-on experience in manual testing, API testing (Postman), and SQL. Skilled in creating test cases, bug reports, and test plans. Familiar with ISTQB concepts. Currently developing test automation skills using Cypress.
 
 ---
 
@@ -41,8 +41,8 @@ QA tester with practical experience in manual testing, API testing using Postman
 - Code editor: Visual Studio Code
 
 ### Automation 
-- Selenium / Cypress / Playwright
-- Basic knowledge of JavaScript / Python / Java
+- Cypress (Basics)
+- JavaScript (Basics)
 
 ---
 
@@ -71,12 +71,8 @@ QA tester with practical experience in manual testing, API testing using Postman
 ### SQL Queries
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
----
-
-## Projects
-- **Project 1** 
-- **Project 2** 
-- **Project 3** 
+### Automation - Cypress**
+- [Test#1]
 
 ---
 
