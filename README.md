@@ -71,7 +71,7 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 ### SQL Queries
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
-### Automation - Cypress**
+### Automation - Cypress
 - [Test#1]
 
 ---
