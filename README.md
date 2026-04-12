@@ -10,7 +10,6 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - Postman od podstaw: Testowanie REST API
 - Kurs SQL od podstaw | MySQL
 - Cypress od podstaw – Automatyzacja testów
-- Chrome DevTools: Od podstaw do Eksperta
 
 ---
 
