@@ -48,27 +48,27 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 ## QA Portfolio
 
 ### Test Plan
-- [TP#1](https://drive.google.com/file/d/1nvrN410QP5ZbObPvSLx6MVxcAny-FS1J/view)
+- [TP#1](https://drive.google.com/file/d/1nvrN410QP5ZbObPvSLx6MVxcAny-FS1J/view)(PL)
 
 ### Test Cases
-- [TC#1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)
-- [TC#2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)
+- [TC#1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)(PL)
+- [TC#2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)(PL)
 
 ### Bug Reports
-- [bug#1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)
-- [bug#2](https://drive.google.com/file/d/1W-H3DZ6TsKQfHxr89Zpwsnxz4V6q8wP-/view)
-- [bug#3](https://drive.google.com/file/d/1h0bpAzNZuD6MjSIS2UnbZvi7aFkYktNu/view)
-- [bug#4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)
+- [bug#1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)(PL)
+- [bug#2](https://drive.google.com/file/d/1W-H3DZ6TsKQfHxr89Zpwsnxz4V6q8wP-/view)(PL)
+- [bug#3](https://drive.google.com/file/d/1h0bpAzNZuD6MjSIS2UnbZvi7aFkYktNu/view)(PL)
+- [bug#4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)(PL)
 
 ### Postman — REST API Testing
-- [Collection](https://drive.google.com/file/d/1Nah-dSNh56BTHeWWF3MKI8LGPPKhm495/view)
-- [Documentation](https://drive.google.com/file/d/1NNekbwYLfjFQF7mKRdpOm0-wUEXpSYYS/view)
+- [Collection](https://drive.google.com/file/d/1Nah-dSNh56BTHeWWF3MKI8LGPPKhm495/view)(PL)
+- [Documentation](https://drive.google.com/file/d/1NNekbwYLfjFQF7mKRdpOm0-wUEXpSYYS/view)(PL)
 
 ### SQL Queries
-- [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
+- [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)(PL)
 
 ### Automation - Cypress
-- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js), [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)
+- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js), [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)(PL)
 
 ---
 
