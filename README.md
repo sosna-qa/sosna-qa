@@ -68,7 +68,7 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
 ### Automation - Cypress
-- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js), [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)(ENG)
+- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js), [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)
 
 ---
 
