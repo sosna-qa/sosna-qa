@@ -61,11 +61,11 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - [bug#4](https://drive.google.com/file/d/1An-QC8FDBehjPYIalrcUyOGu7vqa0DdB/view)(PL)
 
 ### Postman — REST API Testing
-- [Collection](https://drive.google.com/file/d/1Nah-dSNh56BTHeWWF3MKI8LGPPKhm495/view)(ENG)
-- [Documentation](https://drive.google.com/file/d/1NNekbwYLfjFQF7mKRdpOm0-wUEXpSYYS/view)(ENG)
+- [Collection](https://drive.google.com/file/d/1Nah-dSNh56BTHeWWF3MKI8LGPPKhm495/view)
+- [Documentation](https://drive.google.com/file/d/1NNekbwYLfjFQF7mKRdpOm0-wUEXpSYYS/view)
 
 ### SQL Queries
-- [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)(ENG)
+- [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
 ### Automation - Cypress
 - [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js), [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)(ENG)
