@@ -36,7 +36,7 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - Version control system: Git 
 - Chrome DevTools
 - Test case managment: Testlink
-- SQL: Xampp
+- SQL: MySQL
 - Code editor: Visual Studio Code
 
 ### Automation 
