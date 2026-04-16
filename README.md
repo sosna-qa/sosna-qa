@@ -28,7 +28,7 @@ QA Tester with hands-on experience in manual testing, API testing (Postman), and
 - Exploratory testing
 - Writing test cases and test scenarios
 - Creating test plans and test suites
-- Bug reporting and defect lifecycle
+- Bug reporting and defect management
 
 ### Tools & Technologies
 - Bug tracking: Jira, Trello
