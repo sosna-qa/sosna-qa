@@ -6,10 +6,10 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 ---
 
 ## Courses & Certifications
-- Praktyczny Kurs Testowania oprogramowania
-- Postman od podstaw: Testowanie REST API
-- Kurs SQL od podstaw | MySQL
-- Cypress od podstaw – Automatyzacja testów
+- [Praktyczny Kurs Testowania oprogramowania](https://www.udemy.com/share/105oI83@oZT56Dk6Tj-7TqpFQfq3ASUGAhQ_b5VOA1EYjz8Ijl363Z98Rbs7ByOULFQLtGp0ig==/)
+- [Postman od podstaw: Testowanie REST API](https://www.udemy.com/share/105RTg3@zxy45N9aNqACnQoinxI9nh-PY_Cj40jNf8CnXoHIvh9bqnLburAqgMDNSUGWPwNJ0Q==/)
+- [Kurs SQL od podstaw | MySQL](https://www.udemy.com/share/106TFI3@zk6wpjqnzeEgnn7bM0VCOH39866WfDP74IqG__4I7hXyMgR1Bjof3QvW8MC4HjO3Zg==/)
+- [Cypress od podstaw – Automatyzacja testów](https://www.udemy.com/share/10e7nP3@EjPajB_DPEbM3M-YwPG4HYIZFsB5u0kzPfRVSncivjp7AJkgmbg4_DegvXRLzXjlwA==/)
 
 ---
 
