@@ -53,6 +53,8 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 ### Test Cases
 - [TC#1](https://drive.google.com/file/d/11j___z0m8TyYBgrcFF-nEn5ehyC-AMmV/view)(PL)
 - [TC#2](https://drive.google.com/file/d/1ie_dcjGJW_JL_70hOd8zJtQN3xV8T9rd/view)(PL)
+- [TC#3](https://drive.google.com/file/d/1omP-U6SMcIsfGAQ0ukWs1D0MJvfORmv4/view)(ENG)
+- [TC#4](https://drive.google.com/file/d/1oVBM8NwJOxTjhHfm4nmS5TO7nyDHjbkk/view)(ENG)
 
 ### Bug Reports
 - [bug#1](https://drive.google.com/file/d/1RQfB9cqrGN1C6D5YgA_XxlHV0OoO0IZw/view)(PL)
