@@ -12,9 +12,9 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - [Cypress od podstaw – Automatyzacja testów](https://www.udemy.com/share/10e7nP3@EjPajB_DPEbM3M-YwPG4HYIZFsB5u0kzPfRVSncivjp7AJkgmbg4_DegvXRLzXjlwA==/)
 
 ## Sites Used for Learning
--[W3Schools](https://www.w3schools.com/)
+- Coding - [W3Schools](https://www.w3schools.com/)
 
--[AutomationExercise](https://automationexercise.com/)
+- Automation - [AutomationExercise](https://automationexercise.com/)
 
 ---
 
