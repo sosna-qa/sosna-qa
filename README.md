@@ -11,6 +11,11 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/share/106TFI3@zk6wpjqnzeEgnn7bM0VCOH39866WfDP74IqG__4I7hXyMgR1Bjof3QvW8MC4HjO3Zg==/)
 - [Cypress od podstaw – Automatyzacja testów](https://www.udemy.com/share/10e7nP3@EjPajB_DPEbM3M-YwPG4HYIZFsB5u0kzPfRVSncivjp7AJkgmbg4_DegvXRLzXjlwA==/)
 
+## Sites Used for Learning
+-[W3Schools](https://www.w3schools.com/)
+-[AutomationExercise](https://automationexercise.com/)
+- 
+
 ---
 
 ## QA Skills
@@ -47,8 +52,6 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 
 ## My Testing Experience - Own Projects
 
----
-
 ## SauceDemo – E-commerce Testing Practice
 [SauceDemo](https://www.saucedemo.com/)
 
@@ -56,15 +59,11 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - Created manual test cases for user authentication and checkout flow
 - Verified input validation, error handling, and UI behavior
 
----
-
 ## Mr Buggy 6 – Bug Finding Challenge Application
 
 - Performed exploratory testing to identify functional issues and edge cases
 - Created detailed bug reports with steps to reproduce and expected results
 - Focused on identifying UI inconsistencies and logical errors
-
---
 
 ## Testowanie Oprogramowania – QA Practice Platform
 [Testowanie-oprogramowania](https://test.testowanie-oprogramowania.pl/)
