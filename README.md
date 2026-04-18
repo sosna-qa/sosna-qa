@@ -14,7 +14,6 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 ## Sites Used for Learning
 -[W3Schools](https://www.w3schools.com/)
 -[AutomationExercise](https://automationexercise.com/)
-- 
 
 ---
 
