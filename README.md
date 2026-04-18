@@ -47,6 +47,8 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 
 ## My Testing Experience - Own Projects
 
+---
+
 ## SauceDemo – E-commerce Testing Practice
 [SauceDemo](https://www.saucedemo.com/)
 
@@ -54,22 +56,25 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - Created manual test cases for user authentication and checkout flow
 - Verified input validation, error handling, and UI behavior
 
+---
+
 ## Mr Buggy 6 – Bug Finding Challenge Application
 
 - Performed exploratory testing to identify functional issues and edge cases
 - Created detailed bug reports with steps to reproduce and expected results
 - Focused on identifying UI inconsistencies and logical errors
-- Strengthened skills in critical thinking and test design
+
+--
 
 ## Testowanie Oprogramowania – QA Practice Platform
 [Testowanie-oprogramowania](https://test.testowanie-oprogramowania.pl/)
 
-- Conducted structured manual testing based on defined test cases
+- Conducted structured manual and automated testing based on defined test cases
 - Reported and documented bugs following QA standards
 - Tested form validation, UI elements, and user workflows
-- Practiced exploratory testing and regression scenarios
+- Practiced exploratory testing
 
-## Samples
+## My Samples
 
 ### Test Plan
 - [TP#1](https://drive.google.com/file/d/1nvrN410QP5ZbObPvSLx6MVxcAny-FS1J/view)(PL)
