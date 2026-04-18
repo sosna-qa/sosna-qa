@@ -51,7 +51,7 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 [SauceDemo](https://www.saucedemo.com/)
 
 - Performed functional testing of login and shopping cart features
--- Created manual test cases for user authentication and checkout flow
+- Created manual test cases for user authentication and checkout flow
 - Verified input validation, error handling, and UI behavior
 
 ## Mr Buggy 6 – Bug Finding Challenge Application
