@@ -68,10 +68,8 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 ## Testowanie Oprogramowania – QA Practice Platform
 [Testowanie-oprogramowania](https://test.testowanie-oprogramowania.pl/)
 
-- Conducted structured manual and automated testing based on defined test cases
-- Reported and documented bugs following QA standards
+- Developed and executed automated test scripts for core functionalities
 - Tested form validation, UI elements, and user workflows
-- Practiced exploratory testing
 
 ## My Samples
 
