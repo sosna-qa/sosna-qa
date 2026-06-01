@@ -96,15 +96,16 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
 ### Automation - Cypress
-- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js)
-- [Test#2](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/register.cy.js)
-- [Test#3](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/login.cy.js)
+- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js)(Add Product to Cart Flow)
+- [Test#2](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/register.cy.js)(User Registration Flow)
+- [Test#3](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/login.cy.js)(Login Negative Test)
 -  [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)
 
 ---
 
 ## Learning Goals
-- Improve test automation skills
-- Learn CI/CD basics
+- Integrate Cypress tests with Jenkins CI/CD pipelines (Headless execution)
+- Explore TypeScript with Cypress framework
+- Learn API automation using Cypress / JavaScript
 
 ---
