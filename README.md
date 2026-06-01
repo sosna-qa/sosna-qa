@@ -10,6 +10,8 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - [Postman od podstaw: Testowanie REST API](https://www.udemy.com/share/105RTg3@zxy45N9aNqACnQoinxI9nh-PY_Cj40jNf8CnXoHIvh9bqnLburAqgMDNSUGWPwNJ0Q==/)
 - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/share/106TFI3@zk6wpjqnzeEgnn7bM0VCOH39866WfDP74IqG__4I7hXyMgR1Bjof3QvW8MC4HjO3Zg==/)
 - [Cypress od podstaw – Automatyzacja testów](https://www.udemy.com/share/10e7nP3@EjPajB_DPEbM3M-YwPG4HYIZFsB5u0kzPfRVSncivjp7AJkgmbg4_DegvXRLzXjlwA==/)
+- [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/?couponCode=KEEPLEARNING)
+- [Jenkins od Podstaw: Pierwsze Kroki w CI/CD](https://www.udemy.com/course/jenkins-od-podstaw/learn/lecture/46494819?start=120#overview)
 
 ## Sites Used for Learning
 - Coding - [W3Schools](https://www.w3schools.com/)
@@ -96,9 +98,9 @@ Junior QA with hands-on experience in manual testing, API testing (Postman), and
 - [SQL#1](https://drive.google.com/file/d/1W1SXlWe-hREWjNhASzgP2uH8ZMx1IaHo/view)
 
 ### Automation - Cypress
-- [Test#1](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js)(Add Product to Cart Flow)
-- [Test#2](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/register.cy.js)(User Registration Flow)
-- [Test#3](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/login.cy.js)(Login Negative Test)
+- [Add Product to Cart Flow](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/add_to_cart.cy.js)
+- [User Registration Flow](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/register.cy.js)
+- [Login Negative Test](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/cypress/e2e/login.cy.js)
 -  [README.md](https://github.com/sosna-qa/Cypress-Automation-Tests/blob/main/README.md)
 
 ---
